@@ -1,11 +1,10 @@
 # Overview
 
-This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together
+This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, Python, and functions integrated together.
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
  You can watch a demo of my software here:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YwZYTG8goxw)
 
 # Development Environment
 
@@ -17,5 +16,5 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python for Beginners](https://www.pythonforbeginners.com)
+* [W 3 Schools](https://www.w3schools.com/python/python_functions.asp)
